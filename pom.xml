@@ -71,8 +71,8 @@
     <configuration>
         <deploymentType>cloudhub</deploymentType>
         <muleVersion>3.7.2</muleVersion> 
-        <username>pbghosh1967</username>
-        <password>Archana!1972N</password>
+        <username></username>
+        <password></password>
 	 <workerType>Micro</workerType>
         <redeploy>true</redeploy>
         <environment>Sandbox</environment>
